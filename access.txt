@@ -1,3 +1,3 @@
 {
-  status: true
-  reason: dsdASDSAdFDj
+  status: false
+  reason: Чит отключен на тех работы, попробуйте зайти позже
