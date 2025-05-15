@@ -1,2 +1,1 @@
-status: false
-reason:меняем сервак, скоро включится
+status: true
