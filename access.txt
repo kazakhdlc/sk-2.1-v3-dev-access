@@ -1,1 +1,2 @@
-status: true
+status: false
+reason: софт отключен из за @p0m1d0rk (слил способ обхода)
