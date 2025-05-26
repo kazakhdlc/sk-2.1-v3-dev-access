@@ -1,1 +1,2 @@
-status: true
+status: false
+reason:Доступна новая версия!
